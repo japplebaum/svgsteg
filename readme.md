@@ -1,0 +1,1 @@
+svgsteg.py is a proof-of-concept for embedding secret messages in SVG images. It borrows some steganographic techniques from Andreas Westfeld's F5 algorithm. See svgsteg.pdf for a full explanation and usage details.
